@@ -1,0 +1,120 @@
+"mousetrap": "^1.6.5",
+"prop-types": "^15.7.2",
+"react-moment": "^1.1.1",
+@ant-design/icons
+"dotenv-webpack": "^1.8.0",
+"@types/resize-observer-browser": "^0.1.6",
+"error-stack-parser": "^2.0.6",
+
+es5 & es6
+typescript with oops
+css & scss
+js
+html
+redux, thunk & saga full features
+
+In JS
+Basics - datatype, variable, loops, conditions and more.
+OOPS - class, interface, inheritance, polymorphism and so on.
+Regex - pattern
+Window - Object, Console, History, Location, Navigator, Screen.
+DOM - Documents, Elements, Attributes, Events, Event Objects, Collections, NodeList, Style.
+WEB API - Console, Full Screen, Geolocation, History, MediaQueryList, Storage.
+
+Regex
+Title - Modifiers:
+    - g
+    - i
+    - m
+Title - Groups:
+	- [abc]
+	- [^abc]
+	- [0-9]
+	- [^0-9]
+	- (x|y)
+Title - Metacharacters:  
+	- .
+	- \w
+	- \W
+	- \d
+	- \D
+	- \s
+	- \S
+	- \b
+	- \B
+	- \0
+	- \n
+	- \f
+	- \r
+	- \t
+	- \v
+	- \xxx - octal - both octal & alphabet
+	- \xdd - hex
+	- \uxxxx - hex
+Title - Quantifiers:  
+	- +
+	- *
+	- ?
+	- {X}
+	- {X,Y}
+	- {X,}
+	- $
+	- ^
+	- ?=
+	- ?!
+Title - Properties:  
+	- constructor
+	- global
+	- ignoreCase
+	- lastIndex  
+	- multiline
+	- source
+Title - Methods:  
+	- compile() - deprecate
+	- exec()
+	- test()
+	- toString()
+
+i - case insensitive
+m - multiline
+s - singleline
+g - global
+y - sticky
+u - unicode
+
+{
+	"name": "Muhammad Nur Ali",
+	"email": "muh.nurali43@gmail.com",
+	"password": "12345678",
+	"age": 20
+}
+
+home page
+
+Auth
+	- Login
+	- Register
+	- Logout
+
+Profile 
+	- Update Profile
+	- Get the Profile
+	- Upload profile image
+	- Get profile image
+	- Delete Image
+	- Delete User
+
+Task
+	- Add task
+	- Get all task
+	- Get task by id
+	- Get task by completed
+	- Get task by pagination
+	- Update task by id
+	- Delete task by id
+
+Pending
+1. Use the styles.
+2. Commonly use the auth routes.
+3. Check the icons, files, images.
+4. Rendoring in the ant table
